@@ -11,6 +11,9 @@ const AppSeguro = () => {
         <h1 className="text-white text-center text-4xl font-black">
           Cotizador de Seguros de Autos
         </h1>
+        <h2 className="text-white text-center text-2xl font-black">
+          BY:Andre Bazan
+        </h2>
       </header>
 
       <main className="bg-white md:w-2/3 lg:w-2/4 shadow-lg p-10 mx-auto">
